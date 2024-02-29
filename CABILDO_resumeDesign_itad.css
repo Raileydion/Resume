@@ -1,0 +1,110 @@
+@font-face {
+    src: url(fonts/Garet-Book.ttf);
+    font-family: garet;
+}
+
+body {
+    background-image: url('images/workspace.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    background-attachment: fixed;
+    background-color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 5px 8px 100px black;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+}
+
+.me {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#me {
+    padding-right: 40px;
+    padding-left: 40px;
+    text-align: justify;
+}
+
+.contact {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.skills {
+    margin: -128px 50px 50px 298px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#skills {
+    margin-top: -2px;
+    margin-left: 15px;
+}
+
+.work {
+    margin: 15px 50px 30px 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.education {
+    margin: -385px 50px 30px 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.training {
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.hobbies {
+    margin: -160px 50px 50px 530px;;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+#hobbies {
+    margin-top: -2px;
+    margin-left: 25px;
+}
+
+hr.one {
+    margin-top: -8px;
+}
+
+.three {
+    margin-top: -163px;
+    margin-left: 190px;
+}
+
+.four {
+    margin-top: -9px;
+    margin-left: 450px;
+}
+
+.five {
+    margin-top: 120px;
+}
+
+.six {
+    margin-top: -12px;
+    margin-left: 490px;
+}
